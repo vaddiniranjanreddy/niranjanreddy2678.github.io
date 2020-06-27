@@ -32,6 +32,6 @@ Sentiment Analysis : https://github.com/niranjanreddy2678/niranjanreddy2678.gith
 Using IndicNLP : https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/Using%20Indic%20.ipynb
 Bigrams and Trigrams Using Textblob : https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/Bigrams%20and%20Trigrams%20Using%20Textblob.ipynb
 
-Additional Task
+# Additional Task
 EXploring spaCy.ipynb : https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/EXploring%20spaCy.ipynb
 Embedding : https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/embedding.ipynb
