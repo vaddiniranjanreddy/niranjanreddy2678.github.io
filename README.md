@@ -1,11 +1,11 @@
 # niranjanreddy2678.github.io
-statistical natural language processing
+# Satastical Natural Language Processing
 # Name: Vaddi Niranjan Reddy
 # Roll No: 19MAI0045
 
-# MINI PROJECT REVIEW 1-
+# MINI PROJECT REVIEW 1
 
-# LABS-
+# LABS
 
 Exercise 1: https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/Exercise%201%20%2022-05-2020.ipynb
 
@@ -13,7 +13,7 @@ Exercise 2: https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blo
 
 Exercise 3: https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/Exercise%203.ipynb
 
-# ASSIGNMENTS-
+# ASSIGNMENTS
 
 Assignment 1: https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/Assignment%201.ipynb 
 
@@ -23,4 +23,4 @@ Assignment 3: https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/b
 
 Assignment 4: https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/Assignment%204.ipynb
 
-# MINI PROJECT REVIEW 2-
+# MINI PROJECT REVIEW 2
