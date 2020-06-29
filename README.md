@@ -35,7 +35,7 @@ Function Demonstrations In Regional Language : https://github.com/niranjanreddy2
 
 Sentiment Analysis : https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/Sentiment%20Analysis.ipynb
 
-Using IndicNLP : https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/Using%20Indic%20.ipynb
+Using IndicNLP : https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/Using%20Indic1%20.ipynb
 
 Bigrams and Trigrams Using Textblob : https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/Bigrams%20and%20Trigrams%20Using%20Textblob.ipynb
 
