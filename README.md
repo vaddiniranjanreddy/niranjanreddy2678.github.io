@@ -1,9 +1,12 @@
 # niranjanreddy2678.github.io
-# Satastical Natural Language Processing
+# Machine Learning and Satastical Natural Language Processing
 # Name: Vaddi Niranjan Reddy
-# Roll No: 19MAI0045
 
-# MINI PROJECT REVIEW 1
+# Machine Learning Project
+1. Visualization And SDG Classifier and knn accuracy : https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/Visualization%20And%20SDG%20Classifier%20and%20knn%20accuracy.ipynb
+2. Using keras and deep learning model : https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/using%20keras%20and%20deep%20learning%20model.ipynb
+3. Univariate Model : https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/Univariate%20Model.ipynb
+
 
 # LABS
 
@@ -23,8 +26,7 @@ Assignment 3 : https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/
 
 Assignment 4 : https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/Assignment%204.ipynb
 
-# MINI PROJECT REVIEW 2
-
+# Features
 Chunking of LoR : https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/Chunking%20of%20lor.ipynb
 
 Sentiment Analysis : https://github.com/niranjanreddy2678/niranjanreddy2678.github.io/blob/master/Sentiment%20Analysis.ipynb
