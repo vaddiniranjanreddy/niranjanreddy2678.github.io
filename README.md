@@ -1,4 +1,4 @@
-# niranjanreddy2678.github.io
+# vaddiniranjanreddy.github.io
 # Machine Learning and Satastical Natural Language Processing
 # Name: Vaddi Niranjan Reddy
 
